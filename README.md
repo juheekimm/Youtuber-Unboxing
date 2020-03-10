@@ -1,6 +1,6 @@
 # Youtube Unboxing : 유튜버 분석 서비스
 
-<h3>:star: 웹사이트로 이동하기 ​-> ​[:link:](http://15.165.77.1) </h3>
+<h3>:star: 웹사이트로 이동하기 ​-> ​:link:(http://15.165.77.1)</h3>
 
 <center><img src="img/introduce1.png" width="90%" style="margin-top: 3%;"></center>  
 <hr/>
