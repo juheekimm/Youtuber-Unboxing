@@ -1,16 +1,16 @@
 # Youtube Unboxing : 유튜버 분석 서비스
 
-<center><img src="img/introduce1.png" width="90%" style="margin-top: 3%;"></center>  
+<img src="img/introduce1.png" width="90%" style="margin-top: 3%;">
 <hr/>
-<center><img src="img/introduce2.png" width="90%" style="margin-top: 3%;"></center>
+<img src="img/introduce2.png" width="90%" style="margin-top: 3%;">
 <hr />
-<center><img src="img/introduce3.png" width="90%" style="margin-top: 3%;"></center>
+<img src="img/introduce3.png" width="90%" style="margin-top: 3%;">
 <hr />
-<center><img src="img/introduce4.png" width="90%"></center>
+<img src="img/introduce4.png" width="90%">
 <hr />
-<center><img src="img/technology-stack.png" width="90%" style="margin-top: 3%; margin-bottom: 7%"></center>
+<img src="img/technology-stack.png" width="90%" style="margin-top: 3%; margin-bottom: 7%">
 <hr />
-<center><img src="img/system-architecture.png" width="90%" style="margin-top: 3%;"></center><br>
+<img src="img/system-architecture.png" width="90%" style="margin-top: 3%;"><br>
 
 - `FrontEnd`는 `Vue`를 이용해 구현했고, `Vuetify`를 이용해 UI를 디자인했습니다.
 
@@ -62,7 +62,7 @@
 <hr style="margin-bottom: 15%;">
 <h1 style="font-weight: bold; margin-top: 15%;">Git branch 상황</h1>
 
-<center><img src="img/gitFlow.jpg" width="90%"></center><br>
+<img src="img/gitFlow.jpg" width="90%"><br>
 
 - `master` : 프로젝트의 최종 결과물 및 관련 문서들을 정리하였습니다.
 - `develop` : 현재 개발 단계에 있어 master로 merge하기 전에 검토하는 브렌치입니다.
@@ -72,9 +72,9 @@
 <div style="margin-bottom: 15%;"></div>
 
 <hr />
-<center><img src="img/schedule.png" width="90%"></center><br>
+<img src="img/schedule.png" width="90%"><br>
 <hr />
-<center><img src="img/team.png" width="90%"></center>
+<img src="img/team.png" width="90%">
 
 <!-- :sunglasses: 김주희
 
