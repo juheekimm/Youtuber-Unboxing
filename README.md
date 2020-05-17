@@ -1,43 +1,10 @@
 # Youtube Unboxing : 유튜버 분석 서비스
-1. [기획 의도](#기획-의도)
-1. [기술 스택](#기술-스택)
 1. [시연 영상](#시연-영상)
+1. [기술 스택](#기술-스택)
+1. [기획 의도](#기획-의도)
 1. [Git branch 현황](#Git-branch-현황)
 1. [개발 일정](#개발-일정)
 1. [맡은 역할](#맡은-)
-
-
-## 기획 의도
-
-<img src="img/introduce1.png" width="70%" style="margin-top: 3%;">
-<hr width="70%"/>
-<img src="img/introduce2.png" width="70%" style="margin-top: 3%;">
-<hr width="70%" />
-<img src="img/introduce3.png" width="70%" style="margin-top: 3%;">
-<hr width="70%" />
-<img src="img/introduce4.png" width="70%">
-<hr />
-
-## 기술 스택
-
-<img src="img/technology-stack.png" width="70%" style="margin-top: 3%; margin-bottom: 7%">
-<hr width="70%" />
-<img src="img/system-architecture.png" width="70%" style="margin-top: 3%;"><br>
-
-- `FrontEnd`는 `Vue`를 이용해 구현했고, `Vuetify`를 이용해 UI를 디자인했습니다.
-
-- `BaekEnd`는 `Spring`과 `Django` 2개의 서버를 두었습니다.
-  두 서버는 서로 다른 역할을 수행합니다.
-
-- `Spring 서버`는 `REST API`를 이용해 사용자로부터 온 요청에 응답하여
-  DB에서 필요한 정보를 조회해 Front단에서 요청한 정보를 보냅니다.
-
-- `Django 서버`는 유튜버 데이터에 관한 업무를 담당합니다.
-  저희 DB에 없는 유튜버를 사용자가 추가할 경우, 장고 서버가 해당 유튜버의 정보를 수집합니다.
-  또한, 수집된 정보들을 주기적으로 업데이트하는 역할도 수행합니다. 관련 데이터는 `Naver, Daum, Youtube API`를 통해 가져옵니다.
-
-- 데이터베이스는 `mariaDB`를 사용했고, 로그인은 `Kakao 로그인`을 사용했습니다.
-<hr />
 
 ## 시연 영상
 
@@ -74,6 +41,38 @@
     <br />바로 확인해 보세요.
 </h4>
 <hr style="margin-bottom: 15%;">
+
+## 기술 스택
+
+<img src="img/technology-stack.png" width="70%" style="margin-top: 3%; margin-bottom: 7%">
+<hr width="70%" />
+<img src="img/system-architecture.png" width="70%" style="margin-top: 3%;"><br>
+
+- `FrontEnd`는 `Vue`를 이용해 구현했고, `Vuetify`를 이용해 UI를 디자인했습니다.
+
+- `BaekEnd`는 `Spring`과 `Django` 2개의 서버를 두었습니다.
+  두 서버는 서로 다른 역할을 수행합니다.
+
+- `Spring 서버`는 `REST API`를 이용해 사용자로부터 온 요청에 응답하여
+  DB에서 필요한 정보를 조회해 Front단에서 요청한 정보를 보냅니다.
+
+- `Django 서버`는 유튜버 데이터에 관한 업무를 담당합니다.
+  저희 DB에 없는 유튜버를 사용자가 추가할 경우, 장고 서버가 해당 유튜버의 정보를 수집합니다.
+  또한, 수집된 정보들을 주기적으로 업데이트하는 역할도 수행합니다. 관련 데이터는 `Naver, Daum, Youtube API`를 통해 가져옵니다.
+
+- 데이터베이스는 `mariaDB`를 사용했고, 로그인은 `Kakao 로그인`을 사용했습니다.
+<hr />
+
+## 기획 의도
+
+<img src="img/introduce1.png" width="70%" style="margin-top: 3%;">
+<hr width="70%"/>
+<img src="img/introduce2.png" width="70%" style="margin-top: 3%;">
+<hr width="70%" />
+<img src="img/introduce3.png" width="70%" style="margin-top: 3%;">
+<hr width="70%" />
+<img src="img/introduce4.png" width="70%">
+<hr />
 
 ## Git branch 현황
 
