@@ -1,10 +1,10 @@
 # Youtube Unboxing : 유튜버 분석 서비스
 1. [기획](#기획)
-1. [기술 스택](#기술 스택)
-1. [시연 영상](#)
-1. [Git branch 현황](#Git branch 현황)
-1. [개발 일정](#개발 일정)
-1. [맡은 역할](#)
+1. [기술 스택](#기술-스택)
+1. [시연 영상](#시연-영상)
+1. [Git branch 현황](#Git-branch-현황)
+1. [개발 일정](#개발-일정)
+1. [맡은 역할](#맡은-)
 
 
 ## 기획 의도
@@ -42,7 +42,7 @@
 ## 시연 영상
 
 <h2>완벽한 분석 기능</h2>
-<img src="img/detail.gif" width=60% />
+<img src="img/detail.gif" width=80% />
 <!-- ![비디오](img/detail.gif) -->
 <h4 style="margin-bottom: 10%">
     구독자 수, 조회수 같은 기본적인 정보부터
@@ -51,7 +51,7 @@
 </h4>
 <hr>
 <h2>간편한 검색 기능</h2>
-<img src="img/search.gif" width=60% />
+<img src="img/search.gif" width=80% />
 <h4 style="margin-bottom: 10%">
     원하는 유튜버를 검색해 볼 수 있습니다.
     <br />만약 내가 찾는 유튜버가 없다면?
@@ -59,7 +59,7 @@
 </h4>
 <hr>
 <h2>손쉬운 비교하기 기능</h2>
-<img src="img/compare.gif" width=60% />
+<img src="img/compare.gif" width=80% />
 <h4 style="margin-bottom: 10%">
      번거롭게 하나하나 비교할 필요 없이
     <br />한 화면에서 손쉽게 두 유튜버를
@@ -67,7 +67,7 @@
 </h4>
 <hr>
 <h2>강력한 유튜버 추천 기능</h2>
-<img src="img/user.gif" width=60% />
+<img src="img/user.gif" width=80% />
 <h4 style="margin-bottom: 10%">
     나와 관심항목이 같은 사람들이
     <br />즐겨찾는 유튜버를 추천해 드립니다
