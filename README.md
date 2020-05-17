@@ -10,18 +10,18 @@
 ## 기획 의도
 
 <img src="img/introduce1.png" width="70%" style="margin-top: 3%;">
-<hr/>
+<hr width="70%"/>
 <img src="img/introduce2.png" width="70%" style="margin-top: 3%;">
-<hr />
+<hr width="70%" />
 <img src="img/introduce3.png" width="70%" style="margin-top: 3%;">
-<hr />
+<hr width="70%" />
 <img src="img/introduce4.png" width="70%">
-<hr />
+<hr width="70%" />
 
 ## 기술 스택
 
 <img src="img/technology-stack.png" width="70%" style="margin-top: 3%; margin-bottom: 7%">
-<hr />
+<hr width="70%" />
 <img src="img/system-architecture.png" width="70%" style="margin-top: 3%;"><br>
 
 - `FrontEnd`는 `Vue`를 이용해 구현했고, `Vuetify`를 이용해 UI를 디자인했습니다.
@@ -49,7 +49,7 @@
     <br />커뮤니티, 뉴스 분석까지
     <br />한 화면에서 모두 만나보세요.
 </h4>
-<hr>
+<hr width="80%">
 <h2>간편한 검색 기능</h2>
 <img src="img/search.gif" width=80% />
 <h4 style="margin-bottom: 10%">
@@ -57,7 +57,7 @@
     <br />만약 내가 찾는 유튜버가 없다면?
     <br />자유롭게 추가하세요.
 </h4>
-<hr>
+<hr width="80%">
 <h2>손쉬운 비교하기 기능</h2>
 <img src="img/compare.gif" width=80% />
 <h4 style="margin-bottom: 10%">
@@ -65,7 +65,7 @@
     <br />한 화면에서 손쉽게 두 유튜버를
     <br />비교해 보세요.
 </h4>
-<hr>
+<hr width="80%">
 <h2>강력한 유튜버 추천 기능</h2>
 <img src="img/user.gif" width=80% />
 <h4 style="margin-bottom: 10%">
