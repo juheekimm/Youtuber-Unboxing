@@ -1,43 +1,28 @@
 # Youtube Unboxing : 유튜버 분석 서비스
+1. [기획](#기획)
+1. [기술 스택](#기술 스택)
+1. [시연 영상](#)
+1. [Git branch 현황](#Git branch 현황)
+1. [개발 일정](#개발 일정)
+1. [맡은 역할](#)
 
-<h1 style="margin-top: 15%;">핵심 기능</h1>
-<h2>완벽한 분석 기능</h2>
-<img src="img/detail.gif" width=80% />
-<!-- ![비디오](img/detail.gif) -->
-<h4 style="margin-bottom: 10%">
-    구독자 수, 조회수 같은 기본적인 정보부터
-    <br />커뮤니티, 뉴스 분석까지
-    <br />한 화면에서 모두 만나보세요.
-</h4>
-<hr>
-<h2>간편한 검색 기능</h2>
-<img src="img/search.gif" width=80% />
-<h4 style="margin-bottom: 10%">
-    원하는 유튜버를 검색해 볼 수 있습니다.
-    <br />만약 내가 찾는 유튜버가 없다면?
-    <br />자유롭게 추가하세요.
-</h4>
-<hr>
-<h2>손쉬운 비교하기 기능</h2>
-<img src="img/compare.gif" width=80% />
-<h4 style="margin-bottom: 10%">
-     번거롭게 하나하나 비교할 필요 없이
-    <br />한 화면에서 손쉽게 두 유튜버를
-    <br />비교해 보세요.
-</h4>
-<hr>
-<h2>강력한 유튜버 추천 기능</h2>
-<img src="img/user.gif" width=80% />
-<h4 style="margin-bottom: 10%">
-    나와 관심항목이 같은 사람들이
-    <br />즐겨찾는 유튜버를 추천해 드립니다
-    <br />바로 확인해 보세요.
-</h4>
-<hr style="margin-bottom: 15%;">
 
-<img src="img/technology-stack.png" width="90%" style="margin-top: 3%; margin-bottom: 7%">
+## 기획 의도
+
+<img src="img/introduce1.png" width="70%" style="margin-top: 3%;">
+<hr/>
+<img src="img/introduce2.png" width="70%" style="margin-top: 3%;">
 <hr />
-<img src="img/system-architecture.png" width="90%" style="margin-top: 3%;"><br>
+<img src="img/introduce3.png" width="70%" style="margin-top: 3%;">
+<hr />
+<img src="img/introduce4.png" width="70%">
+<hr />
+
+## 기술 스택
+
+<img src="img/technology-stack.png" width="70%" style="margin-top: 3%; margin-bottom: 7%">
+<hr />
+<img src="img/system-architecture.png" width="70%" style="margin-top: 3%;"><br>
 
 - `FrontEnd`는 `Vue`를 이용해 구현했고, `Vuetify`를 이용해 UI를 디자인했습니다.
 
@@ -54,19 +39,45 @@
 - 데이터베이스는 `mariaDB`를 사용했고, 로그인은 `Kakao 로그인`을 사용했습니다.
 <hr />
 
+## 시연 영상
 
-<img src="img/introduce1.png" width="90%" style="margin-top: 3%;">
-<hr/>
-<img src="img/introduce2.png" width="90%" style="margin-top: 3%;">
-<hr />
-<img src="img/introduce3.png" width="90%" style="margin-top: 3%;">
-<hr />
-<img src="img/introduce4.png" width="90%">
-<hr />
+<h2>완벽한 분석 기능</h2>
+<img src="img/detail.gif" width=60% />
+<!-- ![비디오](img/detail.gif) -->
+<h4 style="margin-bottom: 10%">
+    구독자 수, 조회수 같은 기본적인 정보부터
+    <br />커뮤니티, 뉴스 분석까지
+    <br />한 화면에서 모두 만나보세요.
+</h4>
+<hr>
+<h2>간편한 검색 기능</h2>
+<img src="img/search.gif" width=60% />
+<h4 style="margin-bottom: 10%">
+    원하는 유튜버를 검색해 볼 수 있습니다.
+    <br />만약 내가 찾는 유튜버가 없다면?
+    <br />자유롭게 추가하세요.
+</h4>
+<hr>
+<h2>손쉬운 비교하기 기능</h2>
+<img src="img/compare.gif" width=60% />
+<h4 style="margin-bottom: 10%">
+     번거롭게 하나하나 비교할 필요 없이
+    <br />한 화면에서 손쉽게 두 유튜버를
+    <br />비교해 보세요.
+</h4>
+<hr>
+<h2>강력한 유튜버 추천 기능</h2>
+<img src="img/user.gif" width=60% />
+<h4 style="margin-bottom: 10%">
+    나와 관심항목이 같은 사람들이
+    <br />즐겨찾는 유튜버를 추천해 드립니다
+    <br />바로 확인해 보세요.
+</h4>
+<hr style="margin-bottom: 15%;">
 
-<h1 style="font-weight: bold; margin-top: 15%;">Git branch 상황</h1>
+## Git branch 현황
 
-<img src="img/gitFlow.jpg" width="90%"><br>
+<img src="img/gitFlow.jpg" width="70%"><br>
 
 - `master` : 프로젝트의 최종 결과물 및 관련 문서들을 정리하였습니다.
 - `develop` : 현재 개발 단계에 있어 master로 merge하기 전에 검토하는 브렌치입니다.
@@ -76,9 +87,15 @@
 <div style="margin-bottom: 15%;"></div>
 
 <hr />
-<img src="img/schedule.png" width="90%"><br>
+
+## 개발 일정
+
+<img src="img/schedule.png" width="70%"><br>
 <hr />
-<img src="img/team.png" width="90%">
+
+## 
+
+<img src="img/team.png" width="70%">
 
 <!-- :sunglasses: 김주희
 
