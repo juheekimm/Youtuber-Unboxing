@@ -16,7 +16,7 @@
 <img src="img/introduce3.png" width="70%" style="margin-top: 3%;">
 <hr width="70%" />
 <img src="img/introduce4.png" width="70%">
-<hr width="70%" />
+<hr />
 
 ## 기술 스택
 
