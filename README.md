@@ -9,7 +9,7 @@
 ## 시연 영상
 
 <h2>완벽한 분석 기능</h2>
-<img src="img/detail.gif" width=80% />
+<img src="README_img/detail.gif" width=80% />
 <!-- ![비디오](img/detail.gif) -->
 <h4 style="margin-bottom: 10%">
     구독자 수, 조회수 같은 기본적인 정보부터
@@ -18,7 +18,7 @@
 </h4>
 <hr width="80%">
 <h2>간편한 검색 기능</h2>
-<img src="img/search.gif" width=80% />
+<img src="README_img/search.gif" width=80% />
 <h4 style="margin-bottom: 10%">
     원하는 유튜버를 검색해 볼 수 있습니다.
     <br />만약 내가 찾는 유튜버가 없다면?
@@ -26,7 +26,7 @@
 </h4>
 <hr width="80%">
 <h2>손쉬운 비교하기 기능</h2>
-<img src="img/compare.gif" width=80% />
+<img src="README_img/compare.gif" width=80% />
 <h4 style="margin-bottom: 10%">
      번거롭게 하나하나 비교할 필요 없이
     <br />한 화면에서 손쉽게 두 유튜버를
@@ -34,7 +34,7 @@
 </h4>
 <hr width="80%">
 <h2>강력한 유튜버 추천 기능</h2>
-<img src="img/user.gif" width=80% />
+<img src="README_img/user.gif" width=80% />
 <h4 style="margin-bottom: 10%">
     나와 관심항목이 같은 사람들이
     <br />즐겨찾는 유튜버를 추천해 드립니다
@@ -44,9 +44,9 @@
 
 ## 기술 스택
 
-<img src="img/technology-stack.png" width="70%" style="margin-top: 3%; margin-bottom: 7%">
+<img src="README_img/technology-stack.png" width="70%" style="margin-top: 3%; margin-bottom: 7%">
 <hr width="70%" />
-<img src="img/system-architecture.png" width="70%" style="margin-top: 3%;"><br>
+<img src="README_img/system-architecture.png" width="70%" style="margin-top: 3%;"><br>
 
 - `FrontEnd`는 `Vue`를 이용해 구현했고, `Vuetify`를 이용해 UI를 디자인했습니다.
 
@@ -65,18 +65,18 @@
 
 ## 기획 의도
 
-<img src="img/introduce1.png" width="70%" style="margin-top: 3%;">
+<img src="README_img/introduce1.png" width="70%" style="margin-top: 3%;">
 <hr width="70%"/>
-<img src="img/introduce2.png" width="70%" style="margin-top: 3%;">
+<img src="README_img/introduce2.png" width="70%" style="margin-top: 3%;">
 <hr width="70%" />
-<img src="img/introduce3.png" width="70%" style="margin-top: 3%;">
+<img src="README_img/introduce3.png" width="70%" style="margin-top: 3%;">
 <hr width="70%" />
-<img src="img/introduce4.png" width="70%">
+<img src="README_img/introduce4.png" width="70%">
 <hr />
 
 ## Git branch 현황
 
-<img src="img/gitFlow.jpg" width="70%"><br>
+<img src="README_img/gitFlow.jpg" width="70%"><br>
 
 - `master` : 프로젝트의 최종 결과물 및 관련 문서들을 정리하였습니다.
 - `develop` : 현재 개발 단계에 있어 master로 merge하기 전에 검토하는 브렌치입니다.
@@ -89,12 +89,12 @@
 
 ## 개발 일정
 
-<img src="img/schedule.png" width="70%"><br>
+<img src="README_img/schedule.png" width="70%"><br>
 <hr />
 
 ## 
 
-<img src="img/team.png" width="70%">
+<img src="README_img/team.png" width="70%">
 
 <!-- :sunglasses: 김주희
 
