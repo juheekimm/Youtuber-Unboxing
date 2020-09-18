@@ -97,35 +97,35 @@
 
 # 각 페이지 소개
 
-<img src="README_img/detail1.jpg" width="70%"><br>
+<img src="README_img/detail1.png" width="70%"><br>
 
-<img src="README_img/detail2.jpg" width="70%"><br>
+<img src="README_img/detail2.png" width="70%"><br>
 
-<img src="README_img/detail3.jpg" width="70%"><br>
+<img src="README_img/detail3.png" width="70%"><br>
 
-<img src="README_img/detail4.jpg" width="70%"><br>
+<img src="README_img/detail4.png" width="70%"><br>
 
-<img src="README_img/detail5.jpg" width="70%"><br>
+<img src="README_img/detail5.png" width="70%"><br>
 
-<img src="README_img/detail6.jpg" width="70%"><br>
+<img src="README_img/detail6.png" width="70%"><br>
 
-<img src="README_img/detail7.jpg" width="70%"><br>
+<img src="README_img/detail7.png" width="70%"><br>
 
-<img src="README_img/detail8.jpg" width="70%"><br>
+<img src="README_img/detail8.png" width="70%"><br>
 
-<img src="README_img/detail9.jpg" width="70%"><br>
+<img src="README_img/detail9.png" width="70%"><br>
 
-<img src="README_img/detail10.jpg" width="70%"><br>
+<img src="README_img/detail10.png" width="70%"><br>
 
-<img src="README_img/detail11.jpg" width="70%"><br>
+<img src="README_img/detail11.png" width="70%"><br>
 
-<img src="README_img/detail12.jpg" width="70%"><br>
+<img src="README_img/detail12.png" width="70%"><br>
 
-<img src="README_img/detail13.jpg" width="70%"><br>
+<img src="README_img/detail13.png" width="70%"><br>
 
-<img src="README_img/detail14.jpg" width="70%"><br>
+<img src="README_img/detail14.png" width="70%"><br>
 
-<img src="README_img/detail15.jpg" width="70%"><br>
+<img src="README_img/detail15.png" width="70%"><br>
 
 <hr />
 
