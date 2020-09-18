@@ -17,6 +17,7 @@
     <br />커뮤니티, 뉴스 분석까지
     <br />한 화면에서 모두 만나보세요.
 </h4>
+<hr width="80%">
 <h2>간편한 검색 기능</h2>
 <img src="README_img/search.gif" width=80% />
 <h4 style="margin-bottom: 10%">
@@ -24,6 +25,7 @@
     <br />만약 내가 찾는 유튜버가 없다면?
     <br />자유롭게 추가하세요.
 </h4>
+<hr width="80%">
 <h2>손쉬운 비교하기 기능</h2>
 <img src="README_img/compare.gif" width=80% />
 <h4 style="margin-bottom: 10%">
@@ -77,7 +79,8 @@
 # 개발 일정 및 팀원 구성
 
 <img src="README_img/schedule.png" width="70%"><br>
-<hr />
+
+<hr width="80%">
 
 <img src="README_img/team.png" width="70%">
 
