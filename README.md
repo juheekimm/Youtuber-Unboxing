@@ -6,7 +6,7 @@
 1. [개발 일정](#개발-일정)
 1. [맡은 역할](#맡은-)
 
-## 시연 영상
+# 시연 영상
 
 <h2>완벽한 분석 기능</h2>
 <img src="README_img/detail.gif" width=80% />
@@ -42,7 +42,7 @@
 </h4>
 <hr style="margin-bottom: 15%;">
 
-## 기술 스택
+# 기술 스택
 
 <img src="README_img/technology-stack.png" width="70%" style="margin-top: 3%; margin-bottom: 7%">
 <hr width="70%" />
@@ -63,7 +63,7 @@
 - 데이터베이스는 `mariaDB`를 사용했고, 로그인은 `Kakao 로그인`을 사용했습니다.
 <hr />
 
-## 기획 의도
+# 기획 의도
 
 <img src="README_img/introduce1.png" width="70%" style="margin-top: 3%;">
 <hr width="70%"/>
@@ -74,7 +74,7 @@
 <img src="README_img/introduce4.png" width="70%">
 <hr />
 
-## Git branch 현황
+# Git branch 현황
 
 <img src="README_img/gitFlow.jpg" width="70%"><br>
 
@@ -87,12 +87,10 @@
 
 <hr />
 
-## 개발 일정
+# 개발 일정 및 팀원 구성
 
 <img src="README_img/schedule.png" width="70%"><br>
 <hr />
-
-## 
 
 <img src="README_img/team.png" width="70%">
 
