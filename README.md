@@ -128,16 +128,18 @@
 
 <hr />
 
-<! -- # Git branch 현황
+<!--
+# Git branch 현황
 
-<img src="README_img/gitFlow.jpg" width="70%"><br>
+img src="README_img/gitFlow.jpg" width="70%"
+br
 
 - `master` : 프로젝트의 최종 결과물 및 관련 문서들을 정리하였습니다.
 - `develop` : 현재 개발 단계에 있어 master로 merge하기 전에 검토하는 브렌치입니다.
 - `frontDev` : Vue의 개발 진행을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
 - `backDev` : Spring의 개발 진행을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
 - `dataDev` : django 서버 및 데이터 수집을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
-<div style="margin-bottom: 15%;"></div>
+div style="margin-bottom: 15%;"/
 
 -->
 
