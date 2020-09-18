@@ -2,9 +2,10 @@
 1. [시연 영상](#시연-영상)
 1. [기술 스택](#기술-스택)
 1. [기획 의도](#기획-의도)
-1. [Git branch 현황](#Git-branch-현황)
 1. [개발 일정](#개발-일정)
-1. [맡은 역할](#맡은-)
+1. [맡은 역할](#맡은-역할)
+1. [각 페이지 소개](#각-페이지-)
+1. [Git branch 현황](#Git-branch-현황)
 
 # 시연 영상
 
@@ -72,18 +73,6 @@
 <img src="README_img/introduce3.png" width="70%" style="margin-top: 3%;">
 <hr width="70%" />
 <img src="README_img/introduce4.png" width="70%">
-<hr />
-
-# Git branch 현황
-
-<img src="README_img/gitFlow.jpg" width="70%"><br>
-
-- `master` : 프로젝트의 최종 결과물 및 관련 문서들을 정리하였습니다.
-- `develop` : 현재 개발 단계에 있어 master로 merge하기 전에 검토하는 브렌치입니다.
-- `frontDev` : Vue의 개발 진행을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
-- `backDev` : Spring의 개발 진행을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
-- `dataDev` : django 서버 및 데이터 수집을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
-<div style="margin-bottom: 15%;"></div>
 
 <hr />
 
@@ -103,3 +92,51 @@
 :cloud: 이상민
 
 :zzz: 홍기환 -->
+
+<hr />
+
+# 각 페이지 소개
+
+<img src="README_img/detail1.jpg" width="70%"><br>
+
+<img src="README_img/detail2.jpg" width="70%"><br>
+
+<img src="README_img/detail3.jpg" width="70%"><br>
+
+<img src="README_img/detail4.jpg" width="70%"><br>
+
+<img src="README_img/detail5.jpg" width="70%"><br>
+
+<img src="README_img/detail6.jpg" width="70%"><br>
+
+<img src="README_img/detail7.jpg" width="70%"><br>
+
+<img src="README_img/detail8.jpg" width="70%"><br>
+
+<img src="README_img/detail9.jpg" width="70%"><br>
+
+<img src="README_img/detail10.jpg" width="70%"><br>
+
+<img src="README_img/detail11.jpg" width="70%"><br>
+
+<img src="README_img/detail12.jpg" width="70%"><br>
+
+<img src="README_img/detail13.jpg" width="70%"><br>
+
+<img src="README_img/detail14.jpg" width="70%"><br>
+
+<img src="README_img/detail15.jpg" width="70%"><br>
+
+<hr />
+
+# Git branch 현황
+
+<img src="README_img/gitFlow.jpg" width="70%"><br>
+
+- `master` : 프로젝트의 최종 결과물 및 관련 문서들을 정리하였습니다.
+- `develop` : 현재 개발 단계에 있어 master로 merge하기 전에 검토하는 브렌치입니다.
+- `frontDev` : Vue의 개발 진행을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
+- `backDev` : Spring의 개발 진행을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
+- `dataDev` : django 서버 및 데이터 수집을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
+<div style="margin-bottom: 15%;"></div>
+
