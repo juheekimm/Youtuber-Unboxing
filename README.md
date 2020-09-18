@@ -98,39 +98,37 @@
 
 # 각 페이지 소개
 
-<img src="README_img/detail1.png" width="70%"><br>
+<img src="README_img/detail1.png" width="80%"><br>
 
-<img src="README_img/detail2.png" width="70%"><br>
+<img src="README_img/detail2.png" width="80%"><br>
 
-<img src="README_img/detail3.png" width="70%"><br>
+<img src="README_img/detail3.png" width="80%"><br>
 
-<img src="README_img/detail4.png" width="70%"><br>
+<img src="README_img/detail4.png" width="80%"><br>
 
-<img src="README_img/detail5.png" width="70%"><br>
+<img src="README_img/detail5.png" width="80%"><br>
 
-<img src="README_img/detail6.png" width="70%"><br>
+<img src="README_img/detail7.png" width="80%"><br>
 
-<img src="README_img/detail7.png" width="70%"><br>
+<img src="README_img/detail8.png" width="80%"><br>
 
-<img src="README_img/detail8.png" width="70%"><br>
+<img src="README_img/detail9.png" width="80%"><br>
 
-<img src="README_img/detail9.png" width="70%"><br>
+<img src="README_img/detail10.png" width="80%"><br>
 
-<img src="README_img/detail10.png" width="70%"><br>
+<img src="README_img/detail11.png" width="80%"><br>
 
-<img src="README_img/detail11.png" width="70%"><br>
+<img src="README_img/detail12.png" width="80%"><br>
 
-<img src="README_img/detail12.png" width="70%"><br>
+<img src="README_img/detail13.png" width="80%"><br>
 
-<img src="README_img/detail13.png" width="70%"><br>
+<img src="README_img/detail14.png" width="80%"><br>
 
-<img src="README_img/detail14.png" width="70%"><br>
-
-<img src="README_img/detail15.png" width="70%"><br>
+<img src="README_img/detail15.png" width="80%"><br>
 
 <hr />
 
-# Git branch 현황
+<! -- # Git branch 현황
 
 <img src="README_img/gitFlow.jpg" width="70%"><br>
 
@@ -140,4 +138,6 @@
 - `backDev` : Spring의 개발 진행을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
 - `dataDev` : django 서버 및 데이터 수집을 총괄하는 브렌치입니다. 세부 기능별 개발 브렌치를 가지고 있습니다.
 <div style="margin-bottom: 15%;"></div>
+
+-->
 
